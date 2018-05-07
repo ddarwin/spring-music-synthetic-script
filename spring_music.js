@@ -10,8 +10,7 @@ var assert = require('assert');
 */
 
 var urlList = ['https://ddarwinappaspring-proud-panther.apps.pcf.datanerd.us/',
-'https://ddarwinappbspring-cheerful-bongo.apps.pcf.datanerd.us/',
-'https://ddarwinappcspring-chatty-okapi.apps.pcf.datanerd.us/'
+'https://ddarwinappbspring-cheerful-bongo.apps.pcf.datanerd.us/'
 ];
 
 urlList.forEach(function(url,index,array){
